@@ -3,10 +3,10 @@
 }
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+   }
 
 .header {
-    background-color: rgba(190, 183, 171, 0.3);
+    background-color: rgba(190, 183, 171, 0.3); 
     padding: 2ch;
 }
 
